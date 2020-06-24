@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git traning 
 This is a simple project
 
 ## How To Contribute
+
+## Copyright
+
+2014 Git.Training.
