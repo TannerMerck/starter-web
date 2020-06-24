@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tanner Merck	tanner.merck@gmail.com @TannerMerck
 
 # THANKS
 
