@@ -16,6 +16,8 @@ This is a simple project
 
 ## How To Contribute
 
+Please fork this repo
+
 ## Copyright
 
 2014 Git.Training.
